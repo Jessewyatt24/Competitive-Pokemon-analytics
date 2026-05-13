@@ -13,3 +13,9 @@ This project explores competitive Pokémon statistics, team composition, and bat
 - Power BI
 - Python
 - GitHub
+
+## Pokemon Count by Primary Type
+
+This visualization shows the distribution of Pokémon primary typings within the dataset. Water and Normal types appear most frequently, while Flying and Fairy are significantly less common as primary typings.
+
+![Pokemon Count by Primary Type](visuals/type_count_chart.png)
