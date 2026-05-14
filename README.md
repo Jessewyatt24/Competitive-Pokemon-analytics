@@ -35,3 +35,6 @@ Initial findings revealed that Water and Normal types appear most frequently as 
 By combining SQL aggregation, Power BI visualizations, and statistical comparisons, this phase established a foundational understanding of Pokémon type distribution and power scaling across the dataset.
 
 With these baseline trends identified, the project will now transition toward competitive team-building analysis, exploring how stat distributions, typings, and role diversity contribute to successful competitive Pokémon teams.
+
+## Question:
+Do Pokémon with higher Base Stat Totals (BST) tend to see greater competitive usage in VGC formats?
