@@ -68,3 +68,19 @@ Goal 2 explored competitive team-building trends within the 2024 Pokémon VGC me
 Additional analysis of competitive type representation showed that certain typings, including Grass, Fighting, Psychic, Ghost, and Fire, maintained strong overall presence within the metagame, suggesting that strategic typing advantages play a major role in competitive team composition.
 
 Overall, the findings demonstrate that successful competitive performance is influenced by a combination of statistical strength, typing synergy, and strategic utility rather than raw power alone.
+
+![BST vs Competitive VGC Usage](visuals/pokemon_dashbord.png)
+
+## Interactive Dashboard Summary
+
+This Power BI dashboard analyzes Pokémon base stats, primary typing, and competitive VGC usage data. The dashboard uses interactive filters for type, generation, legendary status, and BST to allow users to explore how Pokémon performance changes across different categories.
+
+Key insights shown in the dashboard include:
+
+- Dragon, Psychic, and Steel types have some of the highest average Base Stat Totals.
+- Higher BST shows a slight positive relationship with VGC usage, but the scatter plot shows that stats alone do not determine competitive success.
+- Some lower-BST Pokémon still achieve strong usage, suggesting that typing, abilities, role compression, speed, and team utility are important competitive factors.
+- The treemap highlights which primary types had the strongest overall VGC usage in 2024.
+- KPI cards summarize the dataset using average BST, total Pokémon analyzed, and average competitive usage.
+
+Overall, this dashboard demonstrates how raw stats, typing, and competitive usage can be combined to better understand Pokémon performance trends.
