@@ -47,3 +47,17 @@ Do Pokémon with higher Base Stat Totals (BST) tend to see greater competitive u
 While higher Base Stat Totals (BST) generally correlate with stronger competitive usage...While higher Base Stat Totals (BST) generally correlate with stronger competitive usage, the relationship is not absolute. Pokémon such as Flutter Mane demonstrate that typing, speed distribution, offensive pressure, and overall team utility can allow moderately statted Pokémon to outperform many statistically stronger alternatives in competitive VGC formats.
 
 An extreme BST outlier was also identified in Eternamax Eternatus (BST 1125). While retained in the dataset for completeness, its unusually high statistical profile was considered separately when interpreting broader competitive trends.
+
+
+## Question:
+Which Pokémon typings appear most frequently in competitive VGC play?
+
+![BST vs Competitive VGC Usage](visuals/sum_of_usage_by_type_2024.png)
+
+
+
+## Conclusion
+
+The treemap analysis highlights clear differences in competitive VGC representation across Pokémon primary typings. Grass, Fighting, Psychic, Ghost, and Fire types demonstrated the largest cumulative usage percentages within the 2024 metagame, suggesting these typings provide strong offensive pressure, defensive utility, or team synergy in competitive play.
+
+Meanwhile, typings such as Bug, Poison, and Ice maintained significantly lower representation, indicating more specialized or niche competitive roles. Overall, the results suggest that typing plays a major role in competitive viability, influencing both team composition and long-term metagame trends.
