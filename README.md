@@ -25,3 +25,13 @@ This visualization shows the distribution of Pokémon primary typings within the
 This visualization compares the average base stat totals of Pokémon primary typings. Dragon, Psychic, and Steel types show the highest average statistical strength, while Bug and Normal types rank lower overall.
 
 ![Average Base Stat Total by Primary Type](visuals/average_bst_by_type.png)
+
+## Goal 1 Summary: Base Stat and Typing Analysis
+
+The first phase of this project focused on analyzing Pokémon base stats and primary typings to identify broader statistical trends across the dataset. 
+
+Initial findings revealed that Water and Normal types appear most frequently as primary typings, while Dragon, Psychic, and Steel types demonstrate the highest average Base Stat Totals (BST). These results suggest that typing frequency does not necessarily correlate with overall statistical strength.
+
+By combining SQL aggregation, Power BI visualizations, and statistical comparisons, this phase established a foundational understanding of Pokémon type distribution and power scaling across the dataset.
+
+With these baseline trends identified, the project will now transition toward competitive team-building analysis, exploring how stat distributions, typings, and role diversity contribute to successful competitive Pokémon teams.
