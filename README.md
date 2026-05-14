@@ -38,3 +38,12 @@ With these baseline trends identified, the project will now transition toward co
 
 ## Question:
 Do Pokémon with higher Base Stat Totals (BST) tend to see greater competitive usage in VGC formats?
+
+## BST vs Competitive VGC Usage (2024)
+
+![BST vs Competitive VGC Usage](visuals/bst_vs_vgc_usage_2024.png)
+
+### Analysis
+While higher Base Stat Totals (BST) generally correlate with stronger competitive usage...While higher Base Stat Totals (BST) generally correlate with stronger competitive usage, the relationship is not absolute. Pokémon such as Flutter Mane demonstrate that typing, speed distribution, offensive pressure, and overall team utility can allow moderately statted Pokémon to outperform many statistically stronger alternatives in competitive VGC formats.
+
+An extreme BST outlier was also identified in Eternamax Eternatus (BST 1125). While retained in the dataset for completeness, its unusually high statistical profile was considered separately when interpreting broader competitive trends.
