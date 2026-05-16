@@ -72,7 +72,7 @@ Which Pokémon typings appear most frequently in competitive VGC play?
 
 ![BST vs Competitive VGC Usage](visuals/sum_of_usage_by_type_2024.png)
 
-## Conclusion
+## Competitive Typing Analysis
 
 The treemap analysis highlights clear differences in competitive VGC representation across Pokémon primary typings. Grass, Fighting, Psychic, Ghost, and Fire types demonstrated the largest cumulative usage percentages within the 2024 metagame, suggesting these typings provide strong offensive pressure, defensive utility, or team synergy in competitive play.
 
@@ -110,3 +110,9 @@ Overall, this dashboard demonstrates how raw stats, typing, and competitive usag
 - Add Python-based statistical modeling
 - Publish the dashboard through Power BI Service
 - Incorporate win-rate and tournament placement data
+
+
+## Author
+
+Created by Jesse Luffman  
+Aspiring Data Analyst | Power BI | SQL | Python
