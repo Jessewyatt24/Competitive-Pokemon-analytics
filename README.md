@@ -1,18 +1,36 @@
 # Competitive Pokemon Analytics
 
-This project explores competitive Pokémon statistics, team composition, and battle trends using SQL, Power BI, and Python.
+## Dashboard Preview
+
+![BST vs Competitive VGC Usage](visuals/pokemon_dashbord.png)
+
+
+This project analyzes Pokémon statistics, typing distributions, and competitive VGC usage trends using SQL, Power BI, and Python.
+
+The goal of the project was to apply real-world data analytics techniques to a large gaming dataset while demonstrating skills in data cleaning, visualization design, dashboard development, and analytical storytelling.
 
 ## Goals
 - Analyze Pokémon base stats and typing
 - Explore competitive team-building trends
 - Build interactive dashboards in Power BI
-- Practice SQL querying and data visualization
+- Perform SQL-based data analysis and visualization
 
 ## Tools Used
 - SQL
 - Power BI
 - Python
 - GitHub
+
+## Dataset
+
+The dataset includes Pokémon species information such as:
+- Base stats
+- Primary typings
+- Competitive VGC usage statistics
+- Generation data
+- Legendary status
+
+Data was cleaned and transformed prior to visualization and dashboard development.
 
 ## Pokemon Count by Primary Type
 
@@ -36,7 +54,7 @@ By combining SQL aggregation, Power BI visualizations, and statistical compariso
 
 With these baseline trends identified, the project will now transition toward competitive team-building analysis, exploring how stat distributions, typings, and role diversity contribute to successful competitive Pokémon teams.
 
-## Question:
+## Research Question
 Do Pokémon with higher Base Stat Totals (BST) tend to see greater competitive usage in VGC formats?
 
 ## BST vs Competitive VGC Usage (2024)
@@ -44,12 +62,12 @@ Do Pokémon with higher Base Stat Totals (BST) tend to see greater competitive u
 ![BST vs Competitive VGC Usage](visuals/bst_vs_vgc_usage_2024.png)
 
 ### Analysis
-While higher Base Stat Totals (BST) generally correlate with stronger competitive usage...While higher Base Stat Totals (BST) generally correlate with stronger competitive usage, the relationship is not absolute. Pokémon such as Flutter Mane demonstrate that typing, speed distribution, offensive pressure, and overall team utility can allow moderately statted Pokémon to outperform many statistically stronger alternatives in competitive VGC formats.
+While higher Base Stat Totals (BST) generally correlate with stronger competitive usage, the relationship is not absolute. Pokémon such as Flutter Mane demonstrate that typing, speed distribution, offensive pressure, and overall team utility can allow moderately statted Pokémon to outperform many statistically stronger alternatives in competitive VGC formats.
 
 An extreme BST outlier was also identified in Eternamax Eternatus (BST 1125). While retained in the dataset for completeness, its unusually high statistical profile was considered separately when interpreting broader competitive trends.
 
 
-## Question:
+## Research Question
 Which Pokémon typings appear most frequently in competitive VGC play?
 
 ![BST vs Competitive VGC Usage](visuals/sum_of_usage_by_type_2024.png)
@@ -84,3 +102,11 @@ Key insights shown in the dashboard include:
 - KPI cards summarize the dataset using average BST, total Pokémon analyzed, and average competitive usage.
 
 Overall, this dashboard demonstrates how raw stats, typing, and competitive usage can be combined to better understand Pokémon performance trends.
+
+## Future Improvements
+
+- Integrate advanced SQL querying workflows
+- Expand competitive analysis across multiple generations
+- Add Python-based statistical modeling
+- Publish the dashboard through Power BI Service
+- Incorporate win-rate and tournament placement data
